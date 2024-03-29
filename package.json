@@ -1,0 +1,22 @@
+{
+  "name": "laibashoukat78910-atm-machine",
+  "version": "1.0.15",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "laibashoukat78910-atm-machine": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
